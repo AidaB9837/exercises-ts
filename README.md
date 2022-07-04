@@ -1,1 +1,1 @@
-# exercises-ts
+# This Repo contains TypeScript Exercises
